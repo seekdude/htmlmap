@@ -1,0 +1,6 @@
+const APP_CONFIG = {
+    MAPBOX_ACCESS_TOKEN: 'YOUR_MAPBOX_ACCESS_TOKEN',
+    DEFAULT_CENTER: [-74.5, 40], // New York coordinates
+    DEFAULT_ZOOM: 9,
+    LOCATION_ZOOM: 14
+};
